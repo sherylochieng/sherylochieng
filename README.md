@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Software Developer | Graphic Designer | Writer<br><br>Full-Stack Software Developer with a passion for building efficient, user-friendly applications. I enjoy transforming complex problems into simple, elegant solutions through code.<br>When I’m not coding, you’ll probably find me designing graphics or writing, exploring creative ways to communicate ideas and tell stories through technology.
+Full-Stack Software Developer | Graphic Designer | Writer<br><br>Full-Stack Software Developer with a passion for building efficient, user-friendly applications. I enjoy transforming complex problems into simple, elegant solutions through code.<br>When I’m not coding, you’ll probably find me in graphic design or writing, exploring creative ways to communicate ideas and tell stories through technology.
 
 
 # 💻 Tech Stack:
