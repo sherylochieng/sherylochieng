@@ -1,6 +1,6 @@
 # 🌟 Sheryl Ochieng
 
-> **Crafting Digital Excellence** • System Design Enthusiast • Nix Devotee
+> **Building Elegant Software** • Full-Stack Engineer • System Design Explorer • Creative Problem Solver
 
 <div align="center">
   
@@ -10,26 +10,27 @@
 
 ---
 
-## 🎯 **What I Do**
+## 🎯 **About Me**
 
 ```typescript
 const Sheryl = {
-  focus: ["System Design", "Scalable Architecture", "Developer Experience"],
-  currentlyLearning: "Advanced System Design Patterns",
-  philosophy: "Code with purpose, build with passion",
-  superpower: "Turning complex problems into elegant solutions"
+  role: "Full-Stack Software Engineer",
+  skills: ["Backend Development", "Frontend Development", "UI/UX Design"],
+  creativeSide: ["Graphic Design", "Writing"],
+  focus: ["Building scalable web applications", "Clean architecture", "User-centered design"],
+  currentlyLearning: ["Advanced System Design", "Cloud & Scalable Systems"],
+  philosophy: "Use code and creativity to make life smoother and more seamless",
+  superpower: "Turning complex ideas into simple, elegant digital experiences"
 };
 ```
 
 <div align="center">
   
-  **🌍 Productivity Hacker** • **💻 Nix A(b)user** • **🚀 Tech Explorer**
-  
 </div>
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
@@ -37,13 +38,13 @@ const Sheryl = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node](https://img.shields.io/badge/Node-092E20?style=for-the-badge&logo=node&logoColor=white)
 
 ### **Styling & Design**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 ### **Data & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -59,14 +60,14 @@ const Sheryl = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bonaventureogeto&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonaventureogeto&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sherylochieng&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherylochieng&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
   
 </div>
 
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bonaventureogeto&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117)
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sherylochieng&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117)
   
 </div>
 
