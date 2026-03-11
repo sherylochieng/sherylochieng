@@ -1,4 +1,4 @@
-# 🌟 Bonaventure Ogeto
+# 🌟 Sheryl Ochieng
 
 > **Crafting Digital Excellence** • System Design Enthusiast • Nix Devotee
 
@@ -13,7 +13,7 @@
 ## 🎯 **What I Do**
 
 ```typescript
-const bonaventure = {
+const Sheryl = {
   focus: ["System Design", "Scalable Architecture", "Developer Experience"],
   currentlyLearning: "Advanced System Design Patterns",
   philosophy: "Code with purpose, build with passion",
@@ -49,7 +49,7 @@ const bonaventure = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 </div>
 
@@ -72,37 +72,16 @@ const bonaventure = {
 
 ---
 
-## 🌐 **Connect & Collaborate**
-
-<div align="center">
-  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bonaogeto)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonaventureogeto/)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bonaogeto)
-  [![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://hojaleaks.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonaogeto1@gmail.com)
-  
-</div>
-
 ---
-
-## 💡 **Content & Knowledge Sharing**
-
-<div align="center">
-  
-  📝 **Thoughts & Insights** → [X (Twitter)](https://x.com/bonaogeto)  
-  📖 **Technical Articles** → [HojaLeaks Blog](https://hojaleaks.com)  
-  🎥 **Coding Tutorials** → [YouTube Channel](https://youtube.com/@bonaogeto)  
-  
-</div>
-
+  ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 <div align="center">
   
   ### 💭 *"Great software is built by great people working together"*
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=bonaventureogeto&color=00D9FF&style=for-the-badge&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=sherylochieng&color=00D9FF&style=for-the-badge&label=Profile+Views)
   
   **Open to collaborations and exciting opportunities!** 🚀
   
