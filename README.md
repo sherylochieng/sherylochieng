@@ -35,7 +35,7 @@ const Sheryl = {
 <div align="center">
 
 ### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node](https://img.shields.io/badge/Node-092E20?style=for-the-badge&logo=node&logoColor=white)
@@ -43,7 +43,7 @@ const Sheryl = {
 ### **Styling & Design**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 
 ### **Data & Tools**
@@ -61,8 +61,7 @@ const Sheryl = {
 <div align="center">
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sherylochieng&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherylochieng&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
-  
+   
 </div>
 
 <div align="center">
