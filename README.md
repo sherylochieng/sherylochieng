@@ -1,4 +1,4 @@
-# 🌟 Sheryl Ochieng
+#  Sheryl Ochieng
 
 > **Building Elegant Software** • Full-Stack Engineer • System Design Explorer • Creative Problem Solver
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 **About Me**
+##  **About Me**
 
 ```typescript
 const Sheryl = {
