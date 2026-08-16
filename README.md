@@ -39,6 +39,7 @@ const Sheryl = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node](https://img.shields.io/badge/Node-092E20?style=for-the-badge&logo=node&logoColor=white)
+![Nextjs](https://camo.githubusercontent.com/20af8ead8ff55dc76826e6cf06bad7ab29b843c7d8f9ff76e5296d7106415b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465)
 
 ### **Styling & Design**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
