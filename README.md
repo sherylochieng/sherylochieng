@@ -55,6 +55,17 @@ const Sheryl = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+### **African Stack**
+
+![M-Pesa](https://img.shields.io/badge/M--Pesa-34C77B?style=for-the-badge&logoColor=white&labelColor=153564)
+![Paystack](https://img.shields.io/badge/Paystack-F05A22?style=for-the-badge&logoColor=white&labelColor=153564)
+![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-34C77B?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=153564)
+![Africa's Talking](https://img.shields.io/badge/Africa's_Talking-FF6600?style=for-the-badge&labelColor=153564)
+![USSD](https://img.shields.io/badge/USSD-153564?style=for-the-badge&labelColor=34C77B)
+
+---
+
+
 </div>
 
 ---
