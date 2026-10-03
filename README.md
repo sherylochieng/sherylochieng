@@ -90,3 +90,11 @@ const Sheryl = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
 </div>
+
+# 📊 GitHub Stats:
+<div>
+  
+![](https://github-readme-stats.shion.dev/api?username=sherylochieng&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sherylochieng&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sherylochieng&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
